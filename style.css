@@ -1,0 +1,15 @@
+body{
+    background: #DD6028;
+}
+svg{
+    margin: 0 auto;
+    display: none;
+}
+p{
+    width: 100px;
+    color: #DD6028;
+    margin: 0 auto;
+}
+.style{
+    color:black;
+}
